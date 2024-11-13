@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d19572e77e6cb546909bf34a19fc77f, type: 3}
+  m_Name: SpecialZonePrefabs
+  m_EditorClassIdentifier: 
+  bronzeZoneSprite: {fileID: 21300000, guid: 10169679529b1894e9f083b670d674e4, type: 3}
+  silverZoneSprite: {fileID: 21300000, guid: 8961926c6672360458c0e6255a820c51, type: 3}
+  goldZoneSprite: {fileID: 21300000, guid: 11ffb7eca9f6dfb4d98f6c47a3c73dde, type: 3}

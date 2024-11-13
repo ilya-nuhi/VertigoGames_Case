@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c614d1e97ace545ae6a5af67c23952, type: 3}
+  m_Name: GoldSpin
+  m_EditorClassIdentifier: 
+  spinType: 2
+  baseSprite: {fileID: 21300000, guid: 2558f4a6faffe06419bbd2586f25aaf8, type: 3}
+  indicatorSprite: {fileID: 21300000, guid: 91f15ea8db9a8f743a05e0407b100aef, type: 3}
+  spinnerText: GOLD SPIN
+  textColor: {r: 0.87, g: 0.67, b: 0.3, a: 1}
+  spinnerInfoText: Up To x10 Rewards
